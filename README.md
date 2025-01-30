@@ -11,7 +11,8 @@
 
 ### 1. Crea un repositorio localmente.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/501fdc56-b65b-4c75-9d8e-04bd439aac5d)
+
 
 ### 2. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
 
