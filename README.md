@@ -15,23 +15,30 @@
 
 ### 2. Agrega un archivo de ejemplo al repositorio, el README.md puede ser una gran opción.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/9a2f5d21-06a7-44f7-a607-275c427f84f5)
+
 
 ### 3. Averigua para qué sirve y como se usan estos comandos git add y git commit -m “mensaje”
 
-#### 
+#### El comando git add se usa para agregar cambios en archivos al área de preparación (staging area) en Git. Esto significa que Git reconocerá los cambios y estará listo para incluirlos en el próximo commit.
+
+#### El comando git commit se usa para guardar los cambios confirmados en el historial de Git. Una vez que los archivos han sido agregados al área de preparación con git add, git commit crea un registro permanente de esos cambios en el repositorio local.
+
 
 ### 4. Abre una cuenta de github, si ya la tienes, enlazala con el correo institucional.
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/455486ca-2062-4eda-beb8-8890c3116409)
+
 
 ### 5. Crea un repositorio en blanco (vacío) e GitHub.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/2d462953-7d44-44f9-ad4e-6e9c49649637)
+
 
 ### 6. Configura el repositorio local con el repositorio remoto.
 
-#### 
+#### ![image](https://github.com/user-attachments/assets/254a90cc-2f72-45fa-bb3a-699e1cc82af2)
+
 
 ### 7. Sube los cambios, teniendo en cuenta lo que averiguaste en el punto 3 Utiliza los siguientes comando en el directorio donde tienes tu proyecto, en este orden:
 
@@ -39,15 +46,18 @@
   ### git commit -m "mensaje, lo que hiciste con el archivo"
   ### git push "url repositorio"
 
-####   
+####   ![image](https://github.com/user-attachments/assets/26e79187-2816-42f1-a4b1-14338c65a433)
+
 
 ### 8. Configura el correo en git local de manera correcta Configurar correo electrónico en GitHub
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/41d14c86-4e6b-4954-89a7-d53ffa6270dc)
+
 
 ### 9. Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
 
-#### 
+####  ![image](https://github.com/user-attachments/assets/9d234284-245b-433f-b524-7750d7baaed5)
+
 
 ## PARTE II (Trabajo en parejas)
 
